@@ -9,7 +9,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 As someone that developed a passion for technology and innovation from an early age, I have used this ambition and drive to begin exploring the cybersecurity field. Graduating with a Bachelor of Science in computer science, and with hands on expreince in IT help desk and networking roles, I aim to eventually advance my career to an Information Security Analyst postion, and then a Security Engineer. To reach these milestones, I plan on earning relevant certifications, as well as obtaining a Master's in Information Technology or Cybersecurity in the near future.
 
 ## Skills
-
+<!--
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
