@@ -43,6 +43,11 @@ As someone that developed a passion for technology and innovation from an early 
     <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software"><img src="https://img.shields.io/badge/-Microsoft_Teams-6264A7?&style=for-the-badge&logo=MicrosoftTeams&logoColor=white" /></a>
 </div>
 
+### Programming / Security Tools
+<div> 
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /></a> <a href="https://pypi.org/project/bcrypt/"><img src="https://img.shields.io/badge/-bcrypt-4E9A06?&style=for-the-badge" /></a> 
+</div>
+
 ---
 
 ## Projects
