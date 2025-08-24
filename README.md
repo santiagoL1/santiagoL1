@@ -52,7 +52,7 @@ As someone that developed a passion for technology and innovation from an early 
 
 ---
 
-## Projects
+## Cybersec Projects
 
 * [Wazuh Detection Lab](https://github.com/santiagoL1/Detection-Lab)
 * [Password Hardening Lab](https://github.com/santiagoL1/Password-Hardening-Lab)
