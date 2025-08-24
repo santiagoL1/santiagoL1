@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/santiagoliz1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. Here, I have showcased some of my personal cybersecurity projects, but I have other projects/repos posted that fall outsdie the cybersecurity umbrella. Some other projects include fullstack, data mining, API integrations, and database management. 
 
 ## Objective
 
