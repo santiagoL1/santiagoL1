@@ -12,10 +12,12 @@ As someone that developed a passion for technology and innovation from an early 
 
 ## Skills
 
-| Skill                                          | Associated Project                                                          |
-| ---------------------------------------------- | --------------------------------------------------------------------------- |
-| SIEM Implementation and Log Analysis           | [Wazuh Detection Lab](https://github.com/santiagoL1/Detection-Lab) |
-| Alerting and Incident Notification via Webhook | [Wazuh Detection Lab](https://github.com/santiagoL1/Detection-Lab) |
+| Skill                                          | Associated Project                                                             |
+| ---------------------------------------------- | ------------------------------------------------------------------------------ |
+| SIEM Implementation and Log Analysis           | [Wazuh Detection Lab](https://github.com/santiagoL1/Detection-Lab)             |
+| Alerting and Incident Notification via Webhook | [Wazuh Detection Lab](https://github.com/santiagoL1/Detection-Lab)             |
+| Password Security and Hashing                  | [Password Hardening Lab](https://github.com/santiagoL1/Password-Hardening-Lab) |
+
 
 ---
 
