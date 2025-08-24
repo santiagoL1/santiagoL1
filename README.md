@@ -55,5 +55,5 @@ As someone that developed a passion for technology and innovation from an early 
 ## Projects
 
 * [Wazuh Detection Lab](https://github.com/santiagoL1/Detection-Lab)
-* SOC Automation Project (Pending...)
+* [Password Hardening Lab](https://github.com/santiagoL1/Password-Hardening-Lab)
 
