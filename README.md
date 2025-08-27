@@ -17,6 +17,7 @@ As someone that developed a passion for technology and innovation from an early 
 | SIEM Implementation and Log Analysis           | [Wazuh Detection Lab](https://github.com/santiagoL1/Detection-Lab)             |
 | Alerting and Incident Notification via Webhook | [Wazuh Detection Lab](https://github.com/santiagoL1/Detection-Lab)             |
 | Password Security and Hashing                  | [Password Hardening Lab](https://github.com/santiagoL1/Password-Hardening-Lab) |
+| Basic Network Traffic Capture                  | [Packet Sniffer Lab](https://github.com/santiagoL1/Packet-Sniffer-Lab)         |
 
 
 ---
@@ -29,6 +30,7 @@ As someone that developed a passion for technology and innovation from an early 
     <a href="https://wazuh.com"><img src="https://img.shields.io/badge/-Wazuh-0078D4?&style=for-the-badge&logo=Wazuh&logoColor=white" /></a>
     <a href="https://www.elastic.co"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /></a>
     <a href="https://opensearch.org"><img src="https://img.shields.io/badge/-OpenSearch-FF6C37?&style=for-the-badge&logo=OpenSearch&logoColor=white" /></a>
+    <a href="https://scapy.net/"><img src="https://img.shields.io/badge/-Scapy-1E90FF?&style=for-the-badge&logo=Python&logoColor=white" /></a>
 </div>
 
 ### Endpoint / Virtualization
@@ -56,4 +58,5 @@ As someone that developed a passion for technology and innovation from an early 
 
 * [Wazuh Detection Lab](https://github.com/santiagoL1/Detection-Lab)
 * [Password Hardening Lab](https://github.com/santiagoL1/Password-Hardening-Lab)
+* [Packet Sniffer Lab](https://github.com/santiagoL1/Packet-Sniffer-Lab)
 
